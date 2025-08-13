@@ -4,6 +4,4 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-    labels:
-      - "A-dependencies"
     open-pull-requests-limit: 10
